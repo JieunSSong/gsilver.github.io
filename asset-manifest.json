@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7fe402b4.css",
-    "main.js": "/static/js/main.dca07945.js",
-    "static/js/787.df47a429.chunk.js": "/static/js/787.df47a429.chunk.js",
-    "index.html": "/index.html",
-    "main.7fe402b4.css.map": "/static/css/main.7fe402b4.css.map",
-    "main.dca07945.js.map": "/static/js/main.dca07945.js.map",
-    "787.df47a429.chunk.js.map": "/static/js/787.df47a429.chunk.js.map"
+    "main.css": "/gsilver.github.io/static/css/main.47a39ade.css",
+    "main.js": "/gsilver.github.io/static/js/main.e833a5f9.js",
+    "static/js/787.df47a429.chunk.js": "/gsilver.github.io/static/js/787.df47a429.chunk.js",
+    "index.html": "/gsilver.github.io/index.html",
+    "main.47a39ade.css.map": "/gsilver.github.io/static/css/main.47a39ade.css.map",
+    "main.e833a5f9.js.map": "/gsilver.github.io/static/js/main.e833a5f9.js.map",
+    "787.df47a429.chunk.js.map": "/gsilver.github.io/static/js/787.df47a429.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fe402b4.css",
-    "static/js/main.dca07945.js"
+    "static/css/main.47a39ade.css",
+    "static/js/main.e833a5f9.js"
   ]
 }
