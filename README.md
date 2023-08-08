@@ -8,4 +8,4 @@
 #### 개발환경 : HTML5, CSS, JS 
 #### 주요기능 : Swiper, Modal 
 #### 멤버 : 개인 
-#### 기획서 URL : <a>https://docs.google.com/presentation/d/1CzxT_AjNXW1tXfE_BHSoT4xGSqB6a498UfgPP3WpIyU/edit?usp=sharing</a>
+#### 기획서 URL <a>https://docs.google.com/presentation/d/1CzxT_AjNXW1tXfE_BHSoT4xGSqB6a498UfgPP3WpIyU/edit?usp=sharing</a>
